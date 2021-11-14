@@ -1,0 +1,3 @@
+com/example/stage/processor/sample/TestSampleProcessor.class
+com/example/stage/origin/sample/TestSampleSource.class
+com/example/stage/destination/sample/TestSampleTarget.class
